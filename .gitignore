@@ -1,0 +1,16 @@
+# python
+__pycache__/
+*.pyc
+
+# virtual environments
+venv/
+env/
+
+# output images
+*.png
+
+# OS files
+.DS_Store
+
+# pycuda cache
+.pycuda/
